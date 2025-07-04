@@ -1,0 +1,4 @@
+utilisation de flask
+il faut d'abord l'installer 
+pip install flask **IL FAUT POSSEDER ** `python` pour que ca marche
+il faut soit executer: python app.py ou soit ouvrir index.html simplement
